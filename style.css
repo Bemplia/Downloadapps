@@ -1,0 +1,113 @@
+body.menu {
+	background-image: url(https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6541fddd7386143a2fa31737_65420272ad56d6002405b5b1/scale_1200);
+	background-position-y: -500px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	color: white;
+	font-family:"Times New Roman", Georgia, serif;
+	text-align: center;
+}
+
+body {
+	background-color: #383838;
+	color: white;
+	font-family:"Times New Roman", Georgia, serif;
+	text-align: center;
+}
+
+span {
+	background-color: rgb(53, 53, 53);
+	padding: 5px;
+	border-radius: 10px;
+}
+
+img.main {
+	background-color: rgb(53, 53, 53);
+	padding: 10px;
+	border-radius: 10px;
+}
+
+img.download {
+	background-color: rgb(53, 53, 53);
+	padding: 5px;
+	border-radius: 10px;
+}
+
+li.menu-left {
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+li.menu-left-top {
+	border-top-left-radius: 10px;
+}
+
+li.menu-left-bottom {
+	border-bottom-left-radius: 10px;
+}
+
+li.menu-right-top {
+	border-top-right-radius: 10px;
+}
+
+li.menu-right-bottom {
+	border-bottom-right-radius: 10px;
+}
+
+li.menu-right {
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+mark.official {
+	background-color: green;
+}
+
+mark.official, mark.pirate {
+	color: white;
+	padding: 4px;
+}
+
+mark.pirate {
+	background-color: #eb4034;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	float: left;
+	background-color: #2b2b2b;
+	color: white;
+	padding: 16px;
+}
+
+li:hover {
+	background-color: #212121;
+}
+
+a:link {
+	color: #00ff91;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #00ff91;
+}
+
+a:hover {
+	color: yellow;
+}
+
+a:active {
+	color: red;
+}
+
+li.pirate {
+	background-color: #eb4034;
+}
+
+li.pirate:hover {
+	background-color: #962a23;
+}
